@@ -1,10 +1,10 @@
 # ComVisionProject
 
-Dev.csv: The original dataset containing image URLs and head rectangle areas.
-config.csv: The processed data with recognition rates after image analysis.
-Image_download_preprocessing.ipynb: This Jupyter Notebook includes code for downloading images from the provided URLs, removing duplicate images, and cropping the head areas.
-Image_experiments.ipynb: This Jupyter Notebook contains code for conducting image experiments, such as adding Gaussian noise, blocking eyes, adding leopard spots, and other modifications.
-StableDiffusion.ipynb: This Jupyter Notebook focuses on using the Stable Diffusion model to generate synthetic images.
+##### Dev.csv: The original dataset containing image URLs and head rectangle areas.
+##### config.csv: The processed data with recognition rates after image analysis.
+##### Image_download_preprocessing.ipynb: This Jupyter Notebook includes code for downloading images from the provided URLs, removing duplicate images, and cropping the head areas.
+##### Image_experiments.ipynb: This Jupyter Notebook contains code for conducting image experiments, such as adding Gaussian noise, blocking eyes, adding leopard spots, and other modifications.
+##### StableDiffusion.ipynb: This Jupyter Notebook focuses on using the Stable Diffusion model to generate synthetic images.
 
 To utilize the AWS Celebrity Rekognition API, you will need to provide your own API key and API secret in the code. The current placeholders in the code are not valid. Please ensure that you have obtained the necessary API credentials from AWS.
 
