@@ -2,7 +2,7 @@
 We conducted the experiment utilizing AWS Celebrity Face Rekognition (ACFR). Due to ACFR's incompatibility with the Google Colab platform, we made the API calls within the vscode + Jupyter plugin environment. We employed Google Colab to take advantage of its High GPU capabilities for stable diffusion and fine-tuning tasks. To utilize the AWS Celebrity Rekognition API, you will need to provide your own API key and API secret in the code. The current placeholders in the code are not valid. Please ensure that you have obtained the necessary API credentials from AWS.
 
 # Project structure
-[**heads**](https://github.com/EricW1118/ComVisionProject/main/heads) : All the head photos from Kagle 
+[**heads**](https://github.com/EricW1118/ComVisionProject/tree/main/heads) : All the head photos from Kagle 
 
 [**headsets**](https://github.com/EricW1118/ComVisionProject/main/headsets): Head photos randomly selected from <heads> folder 
 
