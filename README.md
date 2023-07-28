@@ -28,7 +28,7 @@ We conducted the experiment utilizing AWS Celebrity Face Rekognition (ACFR). Due
 
 [**cv_main.ipynb**](https://github.com/EricW1118/ComVisionProject/blob/main/cv_main.ipynb): Code for the regular methods <Gaussian noise, eye patches, line through eyes, leopard spots> 
 
-[**config.csv**](https://github.com/EricW1118/ComVisionProject/blob/main/config.csv): Recognition rate after experiments in <**cv_main.ipynb**>, use this result to plot the diagram, curve and make comparison tables. 
+[**config.csv**](https://github.com/EricW1118/ComVisionProject/blob/main/config.csv): Recognition rate after experiments with head photos of 300 celebrities in <**cv_main.ipynb**>, use this result to plot the diagram, curve and make comparison tables. 
 
 [**requirements.text**](https://github.com/EricW1118/ComVisionProject/blob/main/requirements.text) Configuration file for fine-tuning code 
 
