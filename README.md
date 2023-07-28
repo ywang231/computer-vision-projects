@@ -4,7 +4,7 @@ We conducted the experiment utilizing AWS Celebrity Face Rekognition (ACFR). Due
 # Project structure
 [**heads**](https://github.com/EricW1118/ComVisionProject/tree/main/heads) : All the head photos from Kagle 
 
-[**headsets**](https://github.com/EricW1118/ComVisionProject/tree/main/headsets): Head photos randomly selected from <heads> folder 
+[**headsets**](https://github.com/EricW1118/ComVisionProject/tree/main/headsets): Two head photos randomly selected from each celebrity under <**heads**> folder 
 
 [**dev.csv**](https://github.com/EricW1118/ComVisionProject/blob/main/dev.csv): Original dataset with URL, Name, and Face Region listed in each row 
 
